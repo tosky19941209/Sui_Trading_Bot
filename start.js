@@ -35,3 +35,4 @@ const configDest = path.join(process.cwd(), "app", "config");
   console.log("Starting the app...");
   await import("./app/index.js");
 })();
+//git
